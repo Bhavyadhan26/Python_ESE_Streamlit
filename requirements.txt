@@ -1,6 +1,6 @@
 pandas
-streamlit
+streamlit>=1.40
 plotly
 matplotlib
 wordcloud
-altair<5
+altair>=5,<6
