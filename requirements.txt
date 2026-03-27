@@ -3,3 +3,4 @@ streamlit
 plotly
 matplotlib
 wordcloud
+altair<5
